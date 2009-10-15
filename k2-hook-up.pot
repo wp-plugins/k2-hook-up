@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/k2-hook-up\n"
-"POT-Creation-Date: 2008-12-02 14:44+0000\n"
+"POT-Creation-Date: 2009-10-15 13:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,86 +16,90 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: k2-hook-up-options.php:70
+#: k2-hook-up-options.php:101
 msgid "You've got a pretty good looking blog there."
 msgstr ""
 
-#: k2-hook-up-options.php:70
+#: k2-hook-up-options.php:101
 msgid "Options Saved!"
 msgstr ""
 
-#: k2-hook-up-options.php:138
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin Name of an extension
+#: k2-hook-up-options.php:174
 msgid "K2 Hook Up"
 msgstr ""
 
-#: k2-hook-up-options.php:139
+#: k2-hook-up-options.php:175
 msgid ""
 "Be prepared to get hooked up! This plugin allows you to insert any content "
 "you want into any of the custom hooks added by the K2 theme. K2-RC6+ is "
 "required."
 msgstr ""
 
-#: k2-hook-up-options.php:139
+#: k2-hook-up-options.php:175
 msgid ""
 "The hook names are pretty self explanatory, but if you need more help "
 "determining where they show up in your mark-up,"
 msgstr ""
 
-#: k2-hook-up-options.php:139
+#: k2-hook-up-options.php:175
 msgid "K2 Customizations"
 msgstr ""
 
-#: k2-hook-up-options.php:139
+#: k2-hook-up-options.php:175
 msgid "check the wiki"
 msgstr ""
 
-#: k2-hook-up-options.php:140
+#: k2-hook-up-options.php:176
 msgid "More Questions? Check the "
 msgstr ""
 
-#: k2-hook-up-options.php:140
+#: k2-hook-up-options.php:176
 msgid "Frequently Asked Questions"
 msgstr ""
 
-#: k2-hook-up-options.php:140
+#: k2-hook-up-options.php:176
 msgid "FAQ"
 msgstr ""
 
-#: k2-hook-up-options.php:140
+#: k2-hook-up-options.php:176
 msgid "or"
 msgstr ""
 
-#: k2-hook-up-options.php:140
+#: k2-hook-up-options.php:176
 msgid "Get Support with this Plugin"
 msgstr ""
 
-#: k2-hook-up-options.php:140
+#: k2-hook-up-options.php:176
 msgid "get support"
 msgstr ""
 
-#: k2-hook-up-options.php:141
+#: k2-hook-up-options.php:177
 msgid "Insert any HTML, CSS, JavaScript or PHP you like."
 msgstr ""
 
-#: k2-hook-up-options.php:142
+#: k2-hook-up-options.php:178
 msgid ""
 "Your PHP code must be surrounded in PHP tags and you have to enable the "
 "Execute PHP option for each hook separately."
 msgstr ""
 
-#: k2-hook-up-options.php:170 k2-hook-up-options.php:177
-#: k2-hook-up-options.php:184 k2-hook-up-options.php:191
-#: k2-hook-up-options.php:198 k2-hook-up-options.php:205
-#: k2-hook-up-options.php:212
+#: k2-hook-up-options.php:215 k2-hook-up-options.php:222
+#: k2-hook-up-options.php:229 k2-hook-up-options.php:236
+#: k2-hook-up-options.php:244 k2-hook-up-options.php:251
+#: k2-hook-up-options.php:258 k2-hook-up-options.php:265
+#: k2-hook-up-options.php:272 k2-hook-up-options.php:279
+#: k2-hook-up-options.php:286 k2-hook-up-options.php:293
 msgid "Execute PHP on this hook?"
 msgstr ""
 
-#: k2-hook-up-options.php:216
-msgid "Update Options »"
+#: k2-hook-up-options.php:237
+msgid "Insert new menu links, wrapped in &lt;li&gt; tags"
 msgstr ""
 
-#. Plugin Name of an extension
-msgid "K2 Hook Up"
+#: k2-hook-up-options.php:297
+msgid "Update Options »"
 msgstr ""
 
 #. Plugin URI of an extension
@@ -104,12 +108,12 @@ msgstr ""
 
 #. Description of an extension
 msgid ""
-"This plugin allows you to insert arbitrary content into the many hooks that "
-"the K2 theme provides. No programming skills required. <a "
-"href=\"/wp-admin/themes.php?page=k2-hook-up/k2-hook-up-options.php\">Configure "
-"Settings</a> or <a "
-"href=\"http://xentek.net/code/wordpress/plugins/k2-hook-up/\">Get "
-"Support</a>. <em>Code</em>"
+"**The <a href=\"http://getk2.com/\">K2 Theme</a> is required to use this "
+"plugin.** This plugin allows you to insert arbitrary content into the many "
+"hooks that the K2 theme provides. No programming skills required. <a href="
+"\"themes.php?page=k2-hook-up/k2-hook-up-options.php\">Configure Settings</a> "
+"or <a href=\"http://xentek.net/code/wordpress/plugins/k2-hook-up/\">Get "
+"Support</a>."
 msgstr ""
 
 #. Author of an extension
